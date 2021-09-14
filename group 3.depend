@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631356331 source:c:\users\ogechi\desktop\c++\group 3\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
